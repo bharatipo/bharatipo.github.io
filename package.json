@@ -1,0 +1,13 @@
+{
+  "name": "bharat-ipo-intelligence",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Independent, evidence-led research on Indian IPOs and companies.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
